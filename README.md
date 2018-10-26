@@ -1,4 +1,4 @@
-# mybudget-vuejs
+# poker-session
 
 ## Project setup
 ```
